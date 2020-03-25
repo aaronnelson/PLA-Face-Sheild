@@ -22,7 +22,7 @@ We are printing these on MakerBot Replicator 2 in PLA with the following setting
   
   This results in a 35 minute print on our machines.  I have also modified the starting G CODE to reduce the length of the purge.
   
-  #### ASSEMBLY ####
+  ####ASSEMBLY####
   
   We remove the prints with gloves as not to pass along any viral material and place them into ziploc bags.
   
