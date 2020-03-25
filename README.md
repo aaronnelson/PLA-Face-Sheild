@@ -29,4 +29,4 @@ We are printing these on MakerBot Replicator 2 in PLA with the following setting
   Transparancies should be for laser printers and copiers, the thermal or inkjet types have a "tooth" that makes them hazy
   We are going to attempt to replace the transparancies with 0.005 polycarb sheet as a stiffer and clearer alternative.
   
-  3.5 in Rubber bands seem to wokr the best for the headbands.
+  3.5 in Rubber bands seem to work the best for the headbands.
